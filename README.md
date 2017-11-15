@@ -1,1 +1,7 @@
-Simple userspace C application that uses i2c-dev driver to read accelerometer, gyro, and temperature data from a mpu-6050 sensor.
+###安裝libi2c
+
+
+##1.sudo apt-get install libi2c-dev
+##2.gcc -o 6050 rpi-mpu6050.c
+
+
